@@ -75,16 +75,16 @@ ul,li{
 
 /*--------banner效果----------*/
 .banner{ 
-	width: 100%;margin: 0 auto; position: relative; height: 560px; box-shadow: 1px 1px 1px #ebebeb;
+	margin: 0 auto; width: 100%;position: relative; height: auto; box-shadow: 1px 1px 1px #ebebeb;
 }
 .banner .bd{ 
 	margin: 0 auto; position: relative; z-index: 0; overflow: hidden;
 }
 .banner .bd ul{ 
-	width: 100% !important;
+	width: 100% !important;margin: 0 auto;
 }
 .banner .bd li{ 
-	width: 100% !important;  height: 560px; overflow: hidden; text-align: center;
+	width: 100% !important;  height: 100%; overflow: hidden; text-align: center;margin: 0 auto;
 }
 .banner .bd li.first{
 	background: url(../images/banner1.jpg) center center no-repeat;
@@ -102,7 +102,7 @@ ul,li{
 	background: url(../images/banner5.jpg) center center no-repeat;
 }
 .banner .bd li a{ 
-	display: block; height: 560px;
+	display: block; height: 560px;margin: 0 auto;
 }
 .banner .hd{ 
 	width: 100%; position: absolute; z-index: 1; bottom: 0; left: 0; height: 30px; line-height: 30px; text-align: center;
