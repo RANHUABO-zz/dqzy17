@@ -75,7 +75,7 @@ ul,li{
 
 /*--------banner效果----------*/
 .banner{ 
-	margin: 0 auto; width: 100%;position: relative; height: auto; box-shadow: 1px 1px 1px #ebebeb;
+	margin: 0 auto; width: 1920px;position: relative; height: 560px; box-shadow: 1px 1px 1px #ebebeb;
 }
 .banner .bd{ 
 	margin: 0 auto; position: relative; z-index: 0; overflow: hidden;
