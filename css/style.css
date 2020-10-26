@@ -47,7 +47,7 @@ ul,li{
 }
 .nav{ 
 	position: relative; z-index: 1;
-}
+} 
 .nav .nLi{ 
 	float: left; position: relative; display: inline;
 }
