@@ -75,7 +75,7 @@ ul,li{
 
 /*--------banner效果----------*/
 .banner{ 
-	margin: 0 auto; width: 0 auto;position: relative; height: 560px; box-shadow: 1px 1px 1px #ebebeb;
+	margin: 0 auto; width: 0 auto;position: relative; height: 336px; box-shadow: 1px 1px 1px #ebebeb;
 }
 .banner .bd{ 
 	margin: 0 auto; position: relative; z-index: 0; overflow: hidden;
@@ -102,7 +102,7 @@ ul,li{
 	background: url(../images/banner5.jpg) center center no-repeat;
 }
 .banner .bd li a{ 
-	display: block; height: 560px;margin: 0 auto;
+	display: block; height: 336px;margin: 0 auto;
 }
 .banner .hd{ 
 	width: 100%; position: absolute; z-index: 1; bottom: 0; left: 0; height: 30px; line-height: 30px; text-align: center;
